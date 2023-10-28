@@ -1,12 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Scenario
+My parents want to buy new phones for themselves; and since I am an IT student they have asked me to help them choose the new phone. They have a budget of 100000 each and want the cheapest phone that meets their requirements. My mother is fine with any brand as long as it has 256 gigabytes of storage to store all her photographs. My father would prefer an android phone. 
+The code that I have written intialises the data regarding the preferences of the two parents and information on 5 different mobile phone models in 2 Arrays. It then provides a menu for each parent and gives them the option to view information from the two arrays and to give a final recommendation on which phone they should buy if a recommendation is possible.
